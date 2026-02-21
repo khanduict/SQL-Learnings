@@ -24,7 +24,13 @@
     -  The most advanced DBMS in the world
 
 Keyword	Description	Syntax
-SELECT	Used to select and return data		SELECT column_name FROM table_name (selecting single column)
+| Keyword | Description | Syntax |
+| ---------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
+|SELECT | Used to select and return data		| SELECT column_name FROM table_name (selecting single column) |
 	SELECT first_name, last_name FROM actor (multiple column)
 	SELECT * from actor (all columns)
 ORDER BY	Used to order results based on a column		SELECT column_name1, column_name2 FROM table_name ORDER BY column_name1
