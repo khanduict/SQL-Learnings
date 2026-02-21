@@ -25,8 +25,8 @@
 
 Keyword	Description	Syntax
 | Keyword | Description | Syntax |
-| ---------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| git status | List all new or modified files |
+| ------------ | ---------------- | ------------ |
+| SELECT | Used to select and return data  | SELECT column_name FROM table_name (selecting single column)
 | git diff | Show file differences that haven't been staged |
 
 
