@@ -10,8 +10,11 @@
     - It is a set of Tables in which we store structured data. The tables consists of rows and columns.
     - We retrieve the data using commands in SQL. For example, SELECT <column 1>, <column2>,...FROM <table_name>
 
+- Schema
+  - It is an additional layer that helps us to structure and organise our data. You can think of this as a folder which has different tables
+
 - Database Management System (DBMS)
--  We DBMS need to work on these database. In my case, i used PostgreSQL(backend) and PgAdmin (front end graphical interface)
+-  We DBMS need to manage these database. In my case, i used PostgreSQL(this is DBMS - it is a software which is used to manage the database) and PgAdmin (front end graphical interface)
 
 -  Why PostgreSQL?
   - PostgreSQL is the closest to the standard SQL
